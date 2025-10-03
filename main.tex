@@ -1,4 +1,4 @@
-\documentclass[12 pt, a4paper]{article}
+\documentclass[11 pt, a4paper]{article}
 
 % Fonts and math (Elsevier-like Times style)
 \usepackage{newtxtext,newtxmath}
@@ -240,52 +240,140 @@ to a 3 body problem: two stars at 0.4 AU apart and celestial body orbiting in th
 \subsection{Comparison of Numerical Methods}
 \subsubsection{Circular Orbits}
 The three numerical methods used to create the orbits of the solar system were Euler-Cromer, 2nd Order Runge-Kutta and Leapfrog method.
+The initial conditions for the orbital method were $x = 1$ AU and $v_y=2\pi$ AU/yr. These were tested against all methods.
 
-The circular orbit was graphed using the Euler-Cromer method in Figure 1.
+Figure 1 shows the circular orbit created using the Euler-Cromer method.
 \begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{eulercromercircular.png}
+  \includegraphics[width=1\linewidth]{Euler cromer/eulercromercircular.png}
   \centering
-  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with the energy-time graph.}} 
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with its energy-time graph.}} 
 \end{figure}
+The orbit graph clearly shows a circular orbit with a radius of 1 AU. However, the energy-time graph shows a small dip, showing that energy is not strongly conserved over a long period of time in this method
+Figure 2 shows the circular orbit created using the RK2 method.
+\begin{figure}[H] 
+  \includegraphics[width=1\linewidth]{RK2/rk2circular.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the RK2 method with its energy-time graph.}}
+\end{figure}
+The orbit graph once again shows a clear circle with the radius of 1 AU using the RK2 method with the energy-time graph showing a straight line, indicating that energy is conserved.
 
+Figure 3 shows the circular orbit created using the leapfrog method.
 \begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{rk2circular.png}
+  \includegraphics[width=1\linewidth]{Leapfrog/leapfrogcircular.png}
   \centering
-  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the RK2 method with the energy-time graph.}}
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the leapfrog method with its energy-time graph.}}
 \end{figure}
-
-\begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{evtrk2elliptic.png}
-  \centering
-  \caption{\textit{The energy-time graph of a circular orbit with the initial conditions as in Figure 1 created using the RK2 method.}}
-\end{figure}
+The orbit graph shapes to a cirle with a radius of 1 AU. With this method, the energy-time graph showed a straight line indicating the conservation of energy.
 
 \subsubsection{Elliptical Orbits}
+The methods were also used to create elliptical orbits of the object travelling around a non-binary system. The inital conditions for the orbital method
+were $x=1$ AU and $v_y = \pi$ AU/yr.
+
+Figure 4 shows the elliptical orbit of the object created using the Euler-Cromer method.
 \begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{eulercromerelliptic.png}
+  \includegraphics[width=1\linewidth]{Euler cromer/eulercromerelliptic.png}
   \centering
   \caption{\textit{Elliptical orbit of the object with $x = 1$ AU and $v_y = \pi$ AU/yr using the Euler-Cromer method and the energy-time graph.}} 
 \end{figure}
+The orbit graph shows an elliptical orbit but with a slight deviation after a certain time. This is also shown on the energy-time graph as the energy values drift away and then stabilise again, creating a tangential graph.
 
+Figure 5 shows the elliptical orbit of the object created using the RK2 method.
 \begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{rk2elliptic.png}
+  \includegraphics[width=1\linewidth]{RK2/rk2elliptic.png}
   \centering
   \caption{\textit{Elliptical orbit of the object with $x = 1$ AU and $v_y = \pi$ AU/yr using the RK2 method and the energy-time graph.}} 
 \end{figure}
 
+
 \begin{figure}[H]
-  \includegraphics[width=0.7\linewidth]{leapfrogelliptic.png}
+  \includegraphics[width=1\linewidth]{Leapfrog/leapfrogelliptic.png}
   \centering
   \caption{\textit{The energy-time graph of an elliptical orbit with the initial conditions as in Figure 5 created using the RK2 method.}}
 \end{figure}
 
 \subsection{Effect of Time Step}
+\subsubsection{Circular Orbits}
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{Euler cromer/eulercromercircularincrease.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{RK2/rk2circularincrease.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the RK2 method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{Leapfrog/leapfrogcircularincrease.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Leapfrog method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\subsubsection{Elliptical Orbits}
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{Euler cromer/eulercromerellipticincrease.png}
+  \centering
+  \caption{\textit{Elliptical orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{RK2/rk2ellipticincrease.png}
+  \centering
+  \caption{\textit{Elliptical orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the RK2 method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{Leapfrog/leapfrogellipticincrease.png}
+  \centering
+  \caption{\textit{Elliptical orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Leapfrog method with decreased snaps with the energy-time graph.}} 
+\end{figure}
 
 \subsection{Numerical intergration in a Binary System}
+\subsubsection{Circular Orbits}
 
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryeulercircular.png}
+  \centering
+  \caption{\textit{Binary circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryrk2circular.png}
+  \centering
+  \caption{\textit{Binary circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the RK2 method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryleapfrogcircular.png}
+  \centering
+  \caption{\textit{Binary circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the leapfrog method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\subsubsection{Elliptical Orbits}
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryeulerelliptic.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryrk2elliptic.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
+
+\begin{figure}[H]
+  \includegraphics[width=0.7\linewidth]{binaryleapfrogelliptic.png}
+  \centering
+  \caption{\textit{Circular orbit of the object with $x = 1$ AU and $v_y = 2\pi$ AU/yr using the Euler-Cromer method with decreased snaps with the energy-time graph.}} 
+\end{figure}
 
 \section{Discussion}
-T
+From the three graphs presented under the circular orbits, it can be seen that all intergration methods works well, preserving the law of conservation of energy and angular momentum.
+This was expected as circular orbit means that the energies are constant, resulting in a constant sum. The Euler-Cromer sees a small dip which shows that energy is not properly conserved at long periods of time.
+
 
 \section{Conclusion}
 A
@@ -318,12 +406,12 @@ A
 
 \subsection{Coding}
 \subsubsection{The Euler-Cromer Method for a Non-Binary System}
-\lstinputlisting[language=Python]{euleronestar.py}
+\lstinputlisting[language=Python]{Euler cromer/euleronestar.py}
 
 \subsubsection{The 2nd Order Runge-Kutta Method for a Non-Binary System}
-\lstinputlisting[language=Python]{2rkonestar.py}
+\lstinputlisting[language=Python]{RK2/2rkonestar.py}
 
 \subsubsection{The Leapfrog Method for a Non-Binary System}
-\lstinputlisting[language=Python]{leapfrogonestar.py}
+\lstinputlisting[language=Python]{Leapfrog/leapfrogonestar.py}
 
 \end{document}

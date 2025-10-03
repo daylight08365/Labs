@@ -4,10 +4,10 @@ INPUT c:\Users\lianf\OneDrive - University College Dublin\Stage 3\Labs\main.tex
 OUTPUT main.log
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
@@ -274,11 +274,11 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bo
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi5.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
@@ -310,7 +310,7 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-It
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy7.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
@@ -320,75 +320,161 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi7.vf
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI7.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\eulercromercircular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\rk2circular.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\evtrk2elliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\eulercromerelliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\rk2elliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
-INPUT .\leapfrogelliptic.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\Euler cromer\eulercromercircular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\RK2\rk2circular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Leapfrog\leapfrogcircular.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\Euler cromer\eulercromerelliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\RK2\rk2elliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Leapfrog\leapfrogelliptic.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\Euler cromer\eulercromercircularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\RK2\rk2circularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Leapfrog\leapfrogcircularincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\Euler cromer\eulercromerellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\RK2\rk2ellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\Leapfrog\leapfrogellipticincrease.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryeulercircular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryrk2circular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryleapfrogcircular.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryeulerelliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryrk2elliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
+INPUT .\binaryleapfrogelliptic.png
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtt.fd
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txtt.tfm
-INPUT .\euleronestar.py
-INPUT .\euleronestar.py
+INPUT .\Euler cromer\euleronestar.py
+INPUT .\Euler cromer\euleronestar.py
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txtt.tfm
-INPUT euleronestar.py
+INPUT Euler cromer\euleronestar.py
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
-INPUT .\2rkonestar.py
-INPUT .\2rkonestar.py
-INPUT 2rkonestar.py
-INPUT .\leapfrogonestar.py
-INPUT .\leapfrogonestar.py
-INPUT leapfrogonestar.py
+INPUT .\RK2\2rkonestar.py
+INPUT .\RK2\2rkonestar.py
+INPUT RK2\2rkonestar.py
+INPUT .\Leapfrog\leapfrogonestar.py
+INPUT .\Leapfrog\leapfrogonestar.py
+INPUT Leapfrog\leapfrogonestar.py
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI7.pfb
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI7.pfb
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txexs.pfb
