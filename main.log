@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.22)  3 OCT 2025 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.22)  4 OCT 2025 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -570,7 +570,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 63.
-<UCD_Logo.png, id=99, 778.40813pt x 162.6075pt>
+<UCD_Logo.png, id=107, 778.40813pt x 162.6075pt>
 File: UCD_Logo.png Graphic file (type png)
 <use UCD_Logo.png>
 Package pdftex.def Info: UCD_Logo.png  used on input line 63.
@@ -716,194 +716,197 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 132.
  [3{C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [4] [5]
-<Euler cromer/eulercromercircular.png, id=149, 851.3406pt x 393.8715pt>
+<Euler cromer/eulercromercircular.png, id=157, 873.0216pt x 396.7623pt>
 File: Euler cromer/eulercromercircular.png Graphic file (type png)
 <use Euler cromer/eulercromercircular.png>
-Package pdftex.def Info: Euler cromer/eulercromercircular.png  used on input line 247.
-(pdftex.def)             Requested size: 360.0pt x 166.55476pt.
-<RK2/rk2circular.png, id=150, 849.8952pt x 393.8715pt>
+Package pdftex.def Info: Euler cromer/eulercromercircular.png  used on input line 248.
+(pdftex.def)             Requested size: 360.0pt x 163.61197pt.
+ [6 <./Euler cromer/eulercromercircular.png>]
+<RK2/rk2circular.png, id=164, 861.4584pt x 397.485pt>
 File: RK2/rk2circular.png Graphic file (type png)
 <use RK2/rk2circular.png>
-Package pdftex.def Info: RK2/rk2circular.png  used on input line 254.
-(pdftex.def)             Requested size: 360.0pt x 166.83723pt.
- [6 <./Euler cromer/eulercromercircular.png>]
-<Leapfrog/leapfrogcircular.png, id=157, 854.9541pt x 393.8715pt>
+Package pdftex.def Info: RK2/rk2circular.png  used on input line 256.
+(pdftex.def)             Requested size: 360.0pt x 166.10556pt.
+<Leapfrog/leapfrogcircular.png, id=165, 877.3578pt x 396.7623pt>
 File: Leapfrog/leapfrogcircular.png Graphic file (type png)
 <use Leapfrog/leapfrogcircular.png>
-Package pdftex.def Info: Leapfrog/leapfrogcircular.png  used on input line 262.
-(pdftex.def)             Requested size: 360.0pt x 165.85161pt.
+Package pdftex.def Info: Leapfrog/leapfrogcircular.png  used on input line 264.
+(pdftex.def)             Requested size: 360.0pt x 162.80072pt.
  [7 <./RK2/rk2circular.png> <./Leapfrog/leapfrogcircular.png>]
-<Euler cromer/eulercromerelliptic.png, id=167, 847.0044pt x 393.8715pt>
+<Euler cromer/eulercromerelliptic.png, id=175, 867.9627pt x 396.7623pt>
 File: Euler cromer/eulercromerelliptic.png Graphic file (type png)
 <use Euler cromer/eulercromerelliptic.png>
-Package pdftex.def Info: Euler cromer/eulercromerelliptic.png  used on input line 274.
-(pdftex.def)             Requested size: 360.0pt x 167.40218pt.
-<RK2/rk2elliptic.png, id=168, 844.1136pt x 393.8715pt>
+Package pdftex.def Info: Euler cromer/eulercromerelliptic.png  used on input line 276.
+(pdftex.def)             Requested size: 360.0pt x 164.56247pt.
+<RK2/rk2elliptic.png, id=176, 856.3995pt x 397.485pt>
 File: RK2/rk2elliptic.png Graphic file (type png)
 <use RK2/rk2elliptic.png>
-Package pdftex.def Info: RK2/rk2elliptic.png  used on input line 282.
-(pdftex.def)             Requested size: 360.0pt x 167.97914pt.
+Package pdftex.def Info: RK2/rk2elliptic.png  used on input line 284.
+(pdftex.def)             Requested size: 360.0pt x 167.08812pt.
  [8 <./Euler cromer/eulercromerelliptic.png>]
-<Leapfrog/leapfrogelliptic.png, id=175, 851.3406pt x 393.8715pt>
+<Leapfrog/leapfrogelliptic.png, id=183, 872.2989pt x 396.7623pt>
 File: Leapfrog/leapfrogelliptic.png Graphic file (type png)
 <use Leapfrog/leapfrogelliptic.png>
-Package pdftex.def Info: Leapfrog/leapfrogelliptic.png  used on input line 288.
-(pdftex.def)             Requested size: 360.0pt x 166.55476pt.
-<Euler cromer/eulercromercircularincrease.png, id=176, 851.3406pt x 393.8715pt>
+Package pdftex.def Info: Leapfrog/leapfrogelliptic.png  used on input line 294.
+(pdftex.def)             Requested size: 360.0pt x 163.74516pt.
+ [9 <./RK2/rk2elliptic.png> <./Leapfrog/leapfrogelliptic.png>]
+<Euler cromer/eulercromercircularincrease.png, id=192, 873.0216pt x 396.7623pt>
 File: Euler cromer/eulercromercircularincrease.png Graphic file (type png)
 <use Euler cromer/eulercromercircularincrease.png>
-Package pdftex.def Info: Euler cromer/eulercromercircularincrease.png  used on input line 296.
-(pdftex.def)             Requested size: 251.9989pt x 116.58774pt.
- [9 <./RK2/rk2elliptic.png> <./Leapfrog/leapfrogelliptic.png>]
-<RK2/rk2circularincrease.png, id=185, 849.8952pt x 393.8715pt>
+Package pdftex.def Info: Euler cromer/eulercromercircularincrease.png  used on input line 310.
+(pdftex.def)             Requested size: 360.0pt x 163.61197pt.
+<RK2/rk2circularincrease.png, id=193, 861.4584pt x 397.485pt>
 File: RK2/rk2circularincrease.png Graphic file (type png)
 <use RK2/rk2circularincrease.png>
-Package pdftex.def Info: RK2/rk2circularincrease.png  used on input line 302.
-(pdftex.def)             Requested size: 251.9989pt x 116.78006pt.
-<Leapfrog/leapfrogcircularincrease.png, id=186, 854.9541pt x 393.8715pt>
+Package pdftex.def Info: RK2/rk2circularincrease.png  used on input line 319.
+(pdftex.def)             Requested size: 360.0pt x 166.10556pt.
+ [10 <./Euler cromer/eulercromercircularincrease.png>]
+<Leapfrog/leapfrogcircularincrease.png, id=200, 877.3578pt x 396.7623pt>
 File: Leapfrog/leapfrogcircularincrease.png Graphic file (type png)
 <use Leapfrog/leapfrogcircularincrease.png>
-Package pdftex.def Info: Leapfrog/leapfrogcircularincrease.png  used on input line 308.
-(pdftex.def)             Requested size: 251.9989pt x 116.09492pt.
-<Euler cromer/eulercromerellipticincrease.png, id=187, 844.8363pt x 393.8715pt>
+Package pdftex.def Info: Leapfrog/leapfrogcircularincrease.png  used on input line 327.
+(pdftex.def)             Requested size: 360.0pt x 162.80072pt.
+<Euler cromer/eulercromerellipticincrease.png, id=201, 867.9627pt x 396.7623pt>
 File: Euler cromer/eulercromerellipticincrease.png Graphic file (type png)
 <use Euler cromer/eulercromerellipticincrease.png>
-Package pdftex.def Info: Euler cromer/eulercromerellipticincrease.png  used on input line 315.
-(pdftex.def)             Requested size: 251.9989pt x 117.48323pt.
- [10 <./Euler cromer/eulercromercircularincrease.png> <./RK2/rk2circularincrease.png> <./Leapfrog/leapfrogcircularincrease.png>]
-<RK2/rk2ellipticincrease.png, id=198, 844.1136pt x 393.8715pt>
+Package pdftex.def Info: Euler cromer/eulercromerellipticincrease.png  used on input line 336.
+(pdftex.def)             Requested size: 360.0pt x 164.56247pt.
+ [11 <./RK2/rk2circularincrease.png> <./Leapfrog/leapfrogcircularincrease.png>]
+<RK2/rk2ellipticincrease.png, id=210, 844.8363pt x 397.485pt>
 File: RK2/rk2ellipticincrease.png Graphic file (type png)
 <use RK2/rk2ellipticincrease.png>
-Package pdftex.def Info: RK2/rk2ellipticincrease.png  used on input line 321.
-(pdftex.def)             Requested size: 251.9989pt x 117.58539pt.
-<Leapfrog/leapfrogellipticincrease.png, id=199, 851.3406pt x 393.8715pt>
+Package pdftex.def Info: RK2/rk2ellipticincrease.png  used on input line 345.
+(pdftex.def)             Requested size: 360.0pt x 169.37466pt.
+ [12 <./Euler cromer/eulercromerellipticincrease.png>]
+<Leapfrog/leapfrogellipticincrease.png, id=217, 862.1811pt x 396.7623pt>
 File: Leapfrog/leapfrogellipticincrease.png Graphic file (type png)
 <use Leapfrog/leapfrogellipticincrease.png>
-Package pdftex.def Info: Leapfrog/leapfrogellipticincrease.png  used on input line 327.
-(pdftex.def)             Requested size: 251.9989pt x 116.58774pt.
-<binaryeulercircular.png, id=200, 859.2903pt x 393.8715pt>
+Package pdftex.def Info: Leapfrog/leapfrogellipticincrease.png  used on input line 353.
+(pdftex.def)             Requested size: 360.0pt x 165.67036pt.
+ [13 <./RK2/rk2ellipticincrease.png> <./Leapfrog/leapfrogellipticincrease.png>]
+<binaryeulercircular.png, id=227, 1018.2843pt x 424.2249pt>
 File: binaryeulercircular.png Graphic file (type png)
 <use binaryeulercircular.png>
-Package pdftex.def Info: binaryeulercircular.png  used on input line 336.
-(pdftex.def)             Requested size: 251.9989pt x 115.50594pt.
- [11 <./Euler cromer/eulercromerellipticincrease.png> <./RK2/rk2ellipticincrease.png> <./Leapfrog/leapfrogellipticincrease.png>]
-<binaryrk2circular.png, id=211, 1004.553pt x 426.393pt>
+Package pdftex.def Info: binaryeulercircular.png  used on input line 365.
+(pdftex.def)             Requested size: 360.0pt x 149.97623pt.
+<binaryrk2circular.png, id=228, 1004.553pt x 426.393pt>
 File: binaryrk2circular.png Graphic file (type png)
 <use binaryrk2circular.png>
-Package pdftex.def Info: binaryrk2circular.png  used on input line 342.
-(pdftex.def)             Requested size: 251.9989pt x 106.96233pt.
-<binaryleapfrogcircular.png, id=212, 1003.8303pt x 426.393pt>
+Package pdftex.def Info: binaryrk2circular.png  used on input line 373.
+(pdftex.def)             Requested size: 360.0pt x 152.80519pt.
+ [14 <./binaryeulercircular.png>]
+<binaryleapfrogcircular.png, id=235, 1009.6119pt x 424.2249pt>
 File: binaryleapfrogcircular.png Graphic file (type png)
 <use binaryleapfrogcircular.png>
-Package pdftex.def Info: binaryleapfrogcircular.png  used on input line 348.
-(pdftex.def)             Requested size: 251.9989pt x 107.0404pt.
-<binaryeulerelliptic.png, id=213, 871.5762pt x 393.8715pt>
+Package pdftex.def Info: binaryleapfrogcircular.png  used on input line 381.
+(pdftex.def)             Requested size: 360.0pt x 151.26437pt.
+<binaryeulerelliptic.png, id=236, 890.3664pt x 396.7623pt>
 File: binaryeulerelliptic.png Graphic file (type png)
 <use binaryeulerelliptic.png>
-Package pdftex.def Info: binaryeulerelliptic.png  used on input line 355.
-(pdftex.def)             Requested size: 251.9989pt x 113.87723pt.
- [12 <./binaryeulercircular.png> <./binaryrk2circular.png> <./binaryleapfrogcircular.png>]
-<binaryrk2elliptic.png, id=224, 1003.8303pt x 426.393pt>
+Package pdftex.def Info: binaryeulerelliptic.png  used on input line 389.
+(pdftex.def)             Requested size: 251.9989pt x 112.2914pt.
+ [15 <./binaryrk2circular.png> <./binaryleapfrogcircular.png>]
+<binaryrk2elliptic.png, id=245, 1003.8303pt x 426.393pt>
 File: binaryrk2elliptic.png Graphic file (type png)
 <use binaryrk2elliptic.png>
-Package pdftex.def Info: binaryrk2elliptic.png  used on input line 361.
+Package pdftex.def Info: binaryrk2elliptic.png  used on input line 395.
 (pdftex.def)             Requested size: 251.9989pt x 107.0404pt.
-<binaryleapfrogelliptic.png, id=225, 1003.8303pt x 426.393pt>
+<binaryleapfrogelliptic.png, id=246, 1008.8892pt x 424.2249pt>
 File: binaryleapfrogelliptic.png Graphic file (type png)
 <use binaryleapfrogelliptic.png>
-Package pdftex.def Info: binaryleapfrogelliptic.png  used on input line 367.
-(pdftex.def)             Requested size: 251.9989pt x 107.0404pt.
- [13 <./binaryeulerelliptic.png> <./binaryrk2elliptic.png> <./binaryleapfrogelliptic.png>] [14]
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 383.
+Package pdftex.def Info: binaryleapfrogelliptic.png  used on input line 401.
+(pdftex.def)             Requested size: 251.9989pt x 105.95886pt.
+ [16 <./binaryeulerelliptic.png> <./binaryrk2elliptic.png> <./binaryleapfrogelliptic.png>] [17]
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 428.
  (C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 383.
+(Font)              scaled to size 10.95pt on input line 428.
 
-Overfull \hbox (54.40881pt too wide) in paragraph at lines 383--384
+Overfull \hbox (54.40881pt too wide) in paragraph at lines 428--429
 \OT1/ntxtt/m/n/10.95 portaldataops / mpg / MPG _ Docs / MPG % 20Book / Release / Chapter7 -[] OrbitalMechanics .
  []
 
 
-Overfull \hbox (68.31892pt too wide) in paragraph at lines 385--386
+Overfull \hbox (68.31892pt too wide) in paragraph at lines 430--431
 []\OT1/minntx/m/n/10.95 [2] []$\OT1/ntxtt/m/n/10.95 https : / / phys . libretexts . org / Bookshelves / Conceptual _ Physics / Introduction _
  []
 
 
-Overfull \hbox (48.66008pt too wide) in paragraph at lines 385--386
+Overfull \hbox (48.66008pt too wide) in paragraph at lines 430--431
 \OT1/ntxtt/m/n/10.95 to _ Physics _ (Park ) /02 % 3A _ Mechanics _ I_ -[] _Motion _ and _ Forces / 02 % 3A _ Dynamics /
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 387--388
+Overfull \hbox (56.82146pt too wide) in paragraph at lines 432--433
 []\OT1/minntx/m/n/10.95 [3] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780124158450000037$[] 
  []
 
 
-Overfull \hbox (1.33412pt too wide) in paragraph at lines 391--392
+Overfull \hbox (1.33412pt too wide) in paragraph at lines 436--437
 []\OT1/minntx/m/n/10.95 [5] []$\OT1/ntxtt/m/n/10.95 https : / / orbital -[] mechanics . space / constants -[] of -[] orbital -[] motion /
  []
 
 
-Overfull \hbox (38.66261pt too wide) in paragraph at lines 395--396
+Overfull \hbox (38.66261pt too wide) in paragraph at lines 440--441
 \OT1/ntxtt/m/n/10.95 liceocuneo . it / oddenino / wp -[] content / uploads / sites / 2 / Alan -[] Cromer -[] Stable -[]
  []
 
 
-Overfull \hbox (35.41388pt too wide) in paragraph at lines 395--396
+Overfull \hbox (35.41388pt too wide) in paragraph at lines 440--441
 \OT1/ntxtt/m/n/10.95 solutions -[] using -[] the -[] Euler -[] Approximation -[] American -[] Journal -[] of -[] Physics -[]
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 397--398
+Overfull \hbox (56.82146pt too wide) in paragraph at lines 442--443
 []\OT1/minntx/m/n/10.95 [8] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780128097304000276$[] 
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 399--400
+Overfull \hbox (56.82146pt too wide) in paragraph at lines 444--445
 []\OT1/minntx/m/n/10.95 [9] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780128097304000276$[] 
  []
 
 
-Overfull \hbox (5.30911pt too wide) in paragraph at lines 401--402
+Overfull \hbox (5.30911pt too wide) in paragraph at lines 446--447
 []\OT1/minntx/m/n/10.95 [10] []$\OT1/ntxtt/m/n/10.95 chrome -[] extension : / / efaidnbmnnnibpcajpcglclefindmkaj / https : / /
  []
 
 
-Overfull \hbox (14.16768pt too wide) in paragraph at lines 401--402
+Overfull \hbox (14.16768pt too wide) in paragraph at lines 446--447
 \OT1/ntxtt/m/n/10.95 www . colorado . edu / amath / sites / default / files / attached -[] files / sttime .
  []
 
-[15]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 408.
+[18]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 453.
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 408.
+(Font)              scaled to size 9.0pt on input line 453.
  (Euler cromer/euleronestar.py
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 1.
- [16] [17]) (RK2/2rkonestar.py [18] [19] [20]) (Leapfrog/leapfrogonestar.py [21] [22]) [23] (main.aux)
+ [19] [20]) (RK2/2rkonestar.py [21] [22] [23]) (Leapfrog/leapfrogonestar.py [24] [25]) (binaryeuler.py [26] [27] [28]) (binaryleapfrog.py [29] [30] [31] [32]) [33] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B34F1551D1B43E27B907CEADDEA69FBC;3941.
+(rerunfilecheck)             Checksum: 7F68F81AD730BFA9440113D248606F27;4483.
  ) 
 Here is how much of TeX's memory you used:
- 17993 strings out of 474486
- 275761 string characters out of 5743754
- 2286542 words of memory out of 5000000
- 39528 multiletter control sequences out of 15000+600000
+ 18345 strings out of 474486
+ 281126 string characters out of 5743754
+ 2322542 words of memory out of 5000000
+ 39556 multiletter control sequences out of 15000+600000
  603359 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,8n,117p,1260b,2333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (23 pages, 1155916 bytes).
+Output written on main.pdf (33 pages, 1252266 bytes).
 PDF statistics:
- 823 PDF objects out of 1000 (max. 8388607)
- 466 named destinations out of 1000 (max. 500000)
- 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1242 PDF objects out of 1440 (max. 8388607)
+ 784 named destinations out of 1000 (max. 500000)
+ 304 words of extra memory for PDF output out of 10000 (max. 10000000)
 

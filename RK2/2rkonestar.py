@@ -58,10 +58,8 @@ times = []
 # the derivatives
 def derivatives(x, y, vx, vy):
     r = np.sqrt(x**2 + y**2) # distance from the Sun circular orbit and modulus
-    dxdt = vx
-    dydt = vy
-    ax = -(G*M*x)/(r**3) # acceleration in the x direction
-    ay = -(G*M*y)/(r**3) # acceleration in the y direction
+    dxdt, dydt = vx, vy
+    ax, ay = -(G*M*x)/(r**3), -(G*M*y)/(r**3) # acceleration in the x and y direction
     return dxdt, dydt, ax, ay
 
 # the loop
@@ -70,22 +68,20 @@ for i in range(step):
     r = np.sqrt(x**2 + y**2) # distance from the Sun circular orbit and modulus
 
     # midpoint calculations
-    x_mid = x + (0.5*dt*k1_x)
-    y_mid = y + (0.5*dt*k1_y)
-    vx_mid = vx + (0.5*dt*k1_vx)
-    vy_mid = vy + (0.5*dt*k1_vy)
+    x_mid, y_mid = x + (0.5*dt*k1_x), y + (0.5*dt*k1_y)
+    vx_mid, vy_mid = vx + (0.5*dt*k1_vx), vy + (0.5*dt*k1_vy)
 
     # slope at midpoint (RK2)
     k2_x, k2_y, k2_vx, k2_vy = derivatives(x_mid, y_mid, vx_mid, vy_mid) # obtaining the slopes of the midpoints
 
     # updating the solution
-    x = x + (dt*k2_x)
-    y = y + (dt*k2_y)
-    vx = vx + (dt*k2_vx)
-    vy = vy + (dt*k2_vy)
+    x += (dt*k2_x)
+    y += (dt*k2_y)
+    vx += (dt*k2_vx)
+    vy += (dt*k2_vy)
 
     # snapshot interval
-    snap = 20
+    snap = 2
     if i % snap == 0:
         xvalues.append(x)
         yvalues.append(y)
@@ -117,7 +113,7 @@ plt.grid()
 # energy time graph
 plt.subplot(3,1,2)
 plt.plot(times, energies, color='red')
-plt.ylim(-40,-20)
+plt.ylim(min(energies)-5, max(energies)+5)
 plt.title('Orbit Energy vs. Time with RK2')
 plt.xlabel("Time (yr)")
 plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
@@ -132,5 +128,3 @@ plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
 plt.grid()
 
 plt.tight_layout()
-
-

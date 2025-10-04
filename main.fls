@@ -468,6 +468,12 @@ INPUT RK2\2rkonestar.py
 INPUT .\Leapfrog\leapfrogonestar.py
 INPUT .\Leapfrog\leapfrogonestar.py
 INPUT Leapfrog\leapfrogonestar.py
+INPUT .\binaryeuler.py
+INPUT .\binaryeuler.py
+INPUT binaryeuler.py
+INPUT .\binaryleapfrog.py
+INPUT .\binaryleapfrog.py
+INPUT binaryleapfrog.py
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
