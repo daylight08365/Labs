@@ -250,7 +250,6 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
@@ -268,9 +267,7 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bo
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
@@ -297,6 +294,13 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
@@ -315,11 +319,10 @@ INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
+INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi7.vf
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI7.tfm
 INPUT C:\Users\lianf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm

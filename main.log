@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.22)  4 OCT 2025 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.22)  5 OCT 2025 20:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -574,7 +574,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 File: UCD_Logo.png Graphic file (type png)
 <use UCD_Logo.png>
 Package pdftex.def Info: UCD_Logo.png  used on input line 63.
-(pdftex.def)             Requested size: 323.9978pt x 67.68431pt.
+(pdftex.def)             Requested size: 406.79724pt x 84.98067pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 63.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
@@ -646,248 +646,337 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 63.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 64.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 70.
+(Font)              scaled to size 10.95pt on input line 65.
  [1
 
+
 {C:/Users/lianf/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <./UCD_Logo.png>]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 78.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.95pt on input line 87.
+(Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 87.
+(Font)              scaled to size 8.0pt on input line 101.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.1pt on input line 87.
+(Font)              scaled to size 6.1pt on input line 101.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 92.
+(Font)              scaled to size 10.95pt on input line 107.
 LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
-(Font)              scaled to size 10.95pt on input line 98.
+(Font)              scaled to size 10.95pt on input line 114.
 LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
-(Font)              scaled to size 8.0pt on input line 98.
+(Font)              scaled to size 8.0pt on input line 114.
 LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
-(Font)              scaled to size 6.1pt on input line 98.
- [2]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 132.
+(Font)              scaled to size 6.1pt on input line 114.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 149.
  (C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 132.
- [3{C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [4] [5]
-<Euler cromer/eulercromercircular.png, id=157, 873.0216pt x 396.7623pt>
+(Font)              scaled to size 10.95pt on input line 149.
+ [2
+
+]
+Overfull \hbox (13.8825pt too wide) detected at line 183
+\OT1/minntx/b/n/10.95 a\LMS/ntxsy/m/n/10.95 ¹\OML/ntxmi/m/it/10.95 t\LMS/ntxsy/m/n/10.95 º \U/ntxmia/m/it/10.95 = \LMS/ntxsy/m/n/10.95 ^^@\OML/ntxmi/m/it/10.95 G []
+ []
+
+[3{C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [4]
+<Euler cromer/eulercromercircular.png, id=153, 1002.3849pt x 424.2249pt>
 File: Euler cromer/eulercromercircular.png Graphic file (type png)
 <use Euler cromer/eulercromercircular.png>
-Package pdftex.def Info: Euler cromer/eulercromercircular.png  used on input line 248.
-(pdftex.def)             Requested size: 360.0pt x 163.61197pt.
- [6 <./Euler cromer/eulercromercircular.png>]
-<RK2/rk2circular.png, id=164, 861.4584pt x 397.485pt>
+Package pdftex.def Info: Euler cromer/eulercromercircular.png  used on input line 297.
+(pdftex.def)             Requested size: 221.0pt x 93.53043pt.
+<RK2/rk2circular.png, id=154, 1000.2168pt x 422.0568pt>
 File: RK2/rk2circular.png Graphic file (type png)
 <use RK2/rk2circular.png>
-Package pdftex.def Info: RK2/rk2circular.png  used on input line 256.
-(pdftex.def)             Requested size: 360.0pt x 166.10556pt.
-<Leapfrog/leapfrogcircular.png, id=165, 877.3578pt x 396.7623pt>
+Package pdftex.def Info: RK2/rk2circular.png  used on input line 309.
+(pdftex.def)             Requested size: 221.0pt x 93.25206pt.
+<Leapfrog/leapfrogcircular.png, id=155, 877.3578pt x 396.7623pt>
 File: Leapfrog/leapfrogcircular.png Graphic file (type png)
 <use Leapfrog/leapfrogcircular.png>
-Package pdftex.def Info: Leapfrog/leapfrogcircular.png  used on input line 264.
-(pdftex.def)             Requested size: 360.0pt x 162.80072pt.
- [7 <./RK2/rk2circular.png> <./Leapfrog/leapfrogcircular.png>]
-<Euler cromer/eulercromerelliptic.png, id=175, 867.9627pt x 396.7623pt>
+Package pdftex.def Info: Leapfrog/leapfrogcircular.png  used on input line 321.
+(pdftex.def)             Requested size: 221.0pt x 99.94102pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Euler cromer/eulercromercircular.png> <./RK2/rk2circular.png>]
+<Euler cromer/eulercromerelliptic.png, id=164, 1002.3849pt x 424.2249pt>
 File: Euler cromer/eulercromerelliptic.png Graphic file (type png)
 <use Euler cromer/eulercromerelliptic.png>
-Package pdftex.def Info: Euler cromer/eulercromerelliptic.png  used on input line 276.
-(pdftex.def)             Requested size: 360.0pt x 164.56247pt.
-<RK2/rk2elliptic.png, id=176, 856.3995pt x 397.485pt>
+Package pdftex.def Info: Euler cromer/eulercromerelliptic.png  used on input line 336.
+(pdftex.def)             Requested size: 221.0pt x 93.53043pt.
+
+Underfull \hbox (badness 1221) in paragraph at lines 342--345
+\OT1/minntx/m/n/10.95 show-ing en-ergy fluc-tu-a-tions be-fore sta-bil-is-ing
+ []
+
+<RK2/rk2elliptic.png, id=165, 1000.2168pt x 422.0568pt>
 File: RK2/rk2elliptic.png Graphic file (type png)
 <use RK2/rk2elliptic.png>
-Package pdftex.def Info: RK2/rk2elliptic.png  used on input line 284.
-(pdftex.def)             Requested size: 360.0pt x 167.08812pt.
- [8 <./Euler cromer/eulercromerelliptic.png>]
-<Leapfrog/leapfrogelliptic.png, id=183, 872.2989pt x 396.7623pt>
+Package pdftex.def Info: RK2/rk2elliptic.png  used on input line 348.
+(pdftex.def)             Requested size: 221.0pt x 93.25206pt.
+<Leapfrog/leapfrogelliptic.png, id=166, 872.2989pt x 396.7623pt>
 File: Leapfrog/leapfrogelliptic.png Graphic file (type png)
 <use Leapfrog/leapfrogelliptic.png>
-Package pdftex.def Info: Leapfrog/leapfrogelliptic.png  used on input line 294.
-(pdftex.def)             Requested size: 360.0pt x 163.74516pt.
- [9 <./RK2/rk2elliptic.png> <./Leapfrog/leapfrogelliptic.png>]
-<Euler cromer/eulercromercircularincrease.png, id=192, 873.0216pt x 396.7623pt>
+Package pdftex.def Info: Leapfrog/leapfrogelliptic.png  used on input line 361.
+(pdftex.def)             Requested size: 221.0pt x 100.52222pt.
+[6 <./Leapfrog/leapfrogcircular.png> <./Euler cromer/eulercromerelliptic.png> <./RK2/rk2elliptic.png> <./Leapfrog/leapfrogelliptic.png>]
+<Euler cromer/eulercromercircularincrease.png, id=179, 1000.9395pt x 424.2249pt>
 File: Euler cromer/eulercromercircularincrease.png Graphic file (type png)
 <use Euler cromer/eulercromercircularincrease.png>
-Package pdftex.def Info: Euler cromer/eulercromercircularincrease.png  used on input line 310.
-(pdftex.def)             Requested size: 360.0pt x 163.61197pt.
-<RK2/rk2circularincrease.png, id=193, 861.4584pt x 397.485pt>
+Package pdftex.def Info: Euler cromer/eulercromercircularincrease.png  used on input line 385.
+(pdftex.def)             Requested size: 221.0pt x 93.66637pt.
+<RK2/rk2circularincrease.png, id=180, 998.7714pt x 422.0568pt>
 File: RK2/rk2circularincrease.png Graphic file (type png)
 <use RK2/rk2circularincrease.png>
-Package pdftex.def Info: RK2/rk2circularincrease.png  used on input line 319.
-(pdftex.def)             Requested size: 360.0pt x 166.10556pt.
- [10 <./Euler cromer/eulercromercircularincrease.png>]
-<Leapfrog/leapfrogcircularincrease.png, id=200, 877.3578pt x 396.7623pt>
+Package pdftex.def Info: RK2/rk2circularincrease.png  used on input line 398.
+(pdftex.def)             Requested size: 221.0pt x 93.3873pt.
+<Leapfrog/leapfrogcircularincrease.png, id=181, 1000.9395pt x 424.2249pt>
 File: Leapfrog/leapfrogcircularincrease.png Graphic file (type png)
 <use Leapfrog/leapfrogcircularincrease.png>
-Package pdftex.def Info: Leapfrog/leapfrogcircularincrease.png  used on input line 327.
-(pdftex.def)             Requested size: 360.0pt x 162.80072pt.
-<Euler cromer/eulercromerellipticincrease.png, id=201, 867.9627pt x 396.7623pt>
+Package pdftex.def Info: Leapfrog/leapfrogcircularincrease.png  used on input line 410.
+(pdftex.def)             Requested size: 221.0pt x 93.66637pt.
+<Euler cromer/eulercromerellipticincrease.png, id=182, 867.9627pt x 396.7623pt>
 File: Euler cromer/eulercromerellipticincrease.png Graphic file (type png)
 <use Euler cromer/eulercromerellipticincrease.png>
-Package pdftex.def Info: Euler cromer/eulercromerellipticincrease.png  used on input line 336.
-(pdftex.def)             Requested size: 360.0pt x 164.56247pt.
- [11 <./RK2/rk2circularincrease.png> <./Leapfrog/leapfrogcircularincrease.png>]
-<RK2/rk2ellipticincrease.png, id=210, 844.8363pt x 397.485pt>
+Package pdftex.def Info: Euler cromer/eulercromerellipticincrease.png  used on input line 423.
+(pdftex.def)             Requested size: 221.0pt x 101.01866pt.
+
+Underfull \vbox (badness 5260) has occurred while \output is active []
+
+ [7 <./Euler cromer/eulercromercircularincrease.png> <./RK2/rk2circularincrease.png> <./Leapfrog/leapfrogcircularincrease.png>]
+<RK2/rk2ellipticincrease.png, id=194, 844.8363pt x 397.485pt>
 File: RK2/rk2ellipticincrease.png Graphic file (type png)
 <use RK2/rk2ellipticincrease.png>
-Package pdftex.def Info: RK2/rk2ellipticincrease.png  used on input line 345.
-(pdftex.def)             Requested size: 360.0pt x 169.37466pt.
- [12 <./Euler cromer/eulercromerellipticincrease.png>]
-<Leapfrog/leapfrogellipticincrease.png, id=217, 862.1811pt x 396.7623pt>
+Package pdftex.def Info: RK2/rk2ellipticincrease.png  used on input line 436.
+(pdftex.def)             Requested size: 221.0pt x 103.97443pt.
+<Leapfrog/leapfrogellipticincrease.png, id=195, 862.1811pt x 396.7623pt>
 File: Leapfrog/leapfrogellipticincrease.png Graphic file (type png)
 <use Leapfrog/leapfrogellipticincrease.png>
-Package pdftex.def Info: Leapfrog/leapfrogellipticincrease.png  used on input line 353.
-(pdftex.def)             Requested size: 360.0pt x 165.67036pt.
- [13 <./RK2/rk2ellipticincrease.png> <./Leapfrog/leapfrogellipticincrease.png>]
-<binaryeulercircular.png, id=227, 1018.2843pt x 424.2249pt>
+Package pdftex.def Info: Leapfrog/leapfrogellipticincrease.png  used on input line 448.
+(pdftex.def)             Requested size: 221.0pt x 101.69672pt.
+<binaryeulercircular.png, id=196, 1018.2843pt x 424.2249pt>
 File: binaryeulercircular.png Graphic file (type png)
 <use binaryeulercircular.png>
-Package pdftex.def Info: binaryeulercircular.png  used on input line 365.
-(pdftex.def)             Requested size: 360.0pt x 149.97623pt.
-<binaryrk2circular.png, id=228, 1004.553pt x 426.393pt>
+Package pdftex.def Info: binaryeulercircular.png  used on input line 466.
+(pdftex.def)             Requested size: 221.0pt x 92.06749pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./Euler cromer/eulercromerellipticincrease.png> <./RK2/rk2ellipticincrease.png> <./Leapfrog/leapfrogellipticincrease.png>]
+<binaryrk2circular.png, id=207, 1002.3849pt x 424.2249pt>
 File: binaryrk2circular.png Graphic file (type png)
 <use binaryrk2circular.png>
-Package pdftex.def Info: binaryrk2circular.png  used on input line 373.
-(pdftex.def)             Requested size: 360.0pt x 152.80519pt.
- [14 <./binaryeulercircular.png>]
-<binaryleapfrogcircular.png, id=235, 1009.6119pt x 424.2249pt>
+Package pdftex.def Info: binaryrk2circular.png  used on input line 479.
+(pdftex.def)             Requested size: 221.0pt x 93.53043pt.
+<binaryleapfrogcircular.png, id=208, 1002.3849pt x 424.2249pt>
 File: binaryleapfrogcircular.png Graphic file (type png)
 <use binaryleapfrogcircular.png>
-Package pdftex.def Info: binaryleapfrogcircular.png  used on input line 381.
-(pdftex.def)             Requested size: 360.0pt x 151.26437pt.
-<binaryeulerelliptic.png, id=236, 890.3664pt x 396.7623pt>
+Package pdftex.def Info: binaryleapfrogcircular.png  used on input line 490.
+(pdftex.def)             Requested size: 221.0pt x 93.53043pt.
+
+Underfull \vbox (badness 6825) has occurred while \output is active []
+
+<binaryeulerelliptic.png, id=209, 890.3664pt x 396.7623pt>
 File: binaryeulerelliptic.png Graphic file (type png)
 <use binaryeulerelliptic.png>
-Package pdftex.def Info: binaryeulerelliptic.png  used on input line 389.
-(pdftex.def)             Requested size: 251.9989pt x 112.2914pt.
- [15 <./binaryrk2circular.png> <./binaryleapfrogcircular.png>]
-<binaryrk2elliptic.png, id=245, 1003.8303pt x 426.393pt>
+Package pdftex.def Info: binaryeulerelliptic.png  used on input line 503.
+(pdftex.def)             Requested size: 221.0pt x 98.47594pt.
+<binaryrk2elliptic.png, id=210, 837.6093pt x 396.7623pt>
 File: binaryrk2elliptic.png Graphic file (type png)
 <use binaryrk2elliptic.png>
-Package pdftex.def Info: binaryrk2elliptic.png  used on input line 395.
-(pdftex.def)             Requested size: 251.9989pt x 107.0404pt.
-<binaryleapfrogelliptic.png, id=246, 1008.8892pt x 424.2249pt>
+Package pdftex.def Info: binaryrk2elliptic.png  used on input line 514.
+(pdftex.def)             Requested size: 221.0pt x 104.6814pt.
+ [9 <./binaryeulercircular.png> <./binaryrk2circular.png> <./binaryleapfrogcircular.png> <./binaryeulerelliptic.png>]
+<binaryleapfrogelliptic.png, id=223, 864.3492pt x 396.7623pt>
 File: binaryleapfrogelliptic.png Graphic file (type png)
 <use binaryleapfrogelliptic.png>
-Package pdftex.def Info: binaryleapfrogelliptic.png  used on input line 401.
-(pdftex.def)             Requested size: 251.9989pt x 105.95886pt.
- [16 <./binaryeulerelliptic.png> <./binaryrk2elliptic.png> <./binaryleapfrogelliptic.png>] [17]
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 428.
- (C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
+Package pdftex.def Info: binaryleapfrogelliptic.png  used on input line 525.
+(pdftex.def)             Requested size: 221.0pt x 101.44244pt.
+ [10 <./binaryrk2elliptic.png> <./binaryleapfrogelliptic.png>]
+Underfull \hbox (badness 1158) in paragraph at lines 576--580
+\OT1/minntx/m/n/10.95 Cromer, 2nd Or-der Runge-Kutta (RK2), and
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 598.
+(C:\Users\lianf\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 428.
+(Font)              scaled to size 10.95pt on input line 598.
 
-Overfull \hbox (54.40881pt too wide) in paragraph at lines 428--429
-\OT1/ntxtt/m/n/10.95 portaldataops / mpg / MPG _ Docs / MPG % 20Book / Release / Chapter7 -[] OrbitalMechanics .
+Underfull \hbox (badness 8019) in paragraph at lines 598--599
+\OT1/minntx/m/n/10.95 [1] NASA. "Chap-ter 7 Fun-da-men-tals of
  []
 
 
-Overfull \hbox (68.31892pt too wide) in paragraph at lines 430--431
-[]\OT1/minntx/m/n/10.95 [2] []$\OT1/ntxtt/m/n/10.95 https : / / phys . libretexts . org / Bookshelves / Conceptual _ Physics / Introduction _
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+\OT1/minntx/m/n/10.95 Or-bital Me-chan-ics." NASA. Ac-cessed:
  []
 
 
-Overfull \hbox (48.66008pt too wide) in paragraph at lines 430--431
-\OT1/ntxtt/m/n/10.95 to _ Physics _ (Park ) /02 % 3A _ Mechanics _ I_ -[] _Motion _ and _ Forces / 02 % 3A _ Dynamics /
+Underfull \hbox (badness 2529) in paragraph at lines 598--599
+\OT1/minntx/m/n/10.95 19 Sept. 2025. [On-line]. Avail-able:
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 432--433
-[]\OT1/minntx/m/n/10.95 [3] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780124158450000037$[] 
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+[]$\OT1/ntxtt/m/n/10.95 https : / / spsweb . fltops . jpl . nasa . gov /
  []
 
 
-Overfull \hbox (1.33412pt too wide) in paragraph at lines 436--437
-[]\OT1/minntx/m/n/10.95 [5] []$\OT1/ntxtt/m/n/10.95 https : / / orbital -[] mechanics . space / constants -[] of -[] orbital -[] motion /
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+\OT1/ntxtt/m/n/10.95 portaldataops / mpg / MPG _ Docs / MPG % 20Book /
  []
 
 
-Overfull \hbox (38.66261pt too wide) in paragraph at lines 440--441
-\OT1/ntxtt/m/n/10.95 liceocuneo . it / oddenino / wp -[] content / uploads / sites / 2 / Alan -[] Cromer -[] Stable -[]
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\OT1/ntxtt/m/n/10.95 / / phys . libretexts . org / Bookshelves /
  []
 
 
-Overfull \hbox (35.41388pt too wide) in paragraph at lines 440--441
-\OT1/ntxtt/m/n/10.95 solutions -[] using -[] the -[] Euler -[] Approximation -[] American -[] Journal -[] of -[] Physics -[]
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\OT1/ntxtt/m/n/10.95 Conceptual _ Physics / Introduction _ to _
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 442--443
-[]\OT1/minntx/m/n/10.95 [8] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780128097304000276$[] 
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\OT1/ntxtt/m/n/10.95 Physics _ (Park ) /02 % 3A _ Mechanics _ I_ -[]
  []
 
 
-Overfull \hbox (56.82146pt too wide) in paragraph at lines 444--445
-[]\OT1/minntx/m/n/10.95 [9] []$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science / article / pii / B9780128097304000276$[] 
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\OT1/ntxtt/m/n/10.95 _Motion _ and _ Forces / 02 % 3A _ Dynamics /
  []
 
 
-Overfull \hbox (5.30911pt too wide) in paragraph at lines 446--447
-[]\OT1/minntx/m/n/10.95 [10] []$\OT1/ntxtt/m/n/10.95 chrome -[] extension : / / efaidnbmnnnibpcajpcglclefindmkaj / https : / /
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\OT1/ntxtt/m/n/10.95 2 . 09 % 3A _ Newtons _ Universal _ Law _ of _
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+[]$\OT1/ntxtt/m/n/10.95 https : / / www . sciencedirect . com / science /
  []
 
 
-Overfull \hbox (14.16768pt too wide) in paragraph at lines 446--447
-\OT1/ntxtt/m/n/10.95 www . colorado . edu / amath / sites / default / files / attached -[] files / sttime .
+Underfull \hbox (badness 1715) in paragraph at lines 606--607
+\OT1/minntx/m/n/10.95 able: []$\OT1/ntxtt/m/n/10.95 https : / / orbital -[] mechanics . space /
  []
 
-[18]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 453.
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+\OT1/ntxtt/m/n/10.95 constants -[] of -[] orbital -[] motion / energy -[] is -[]
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 610--611
+[]\OT1/minntx/m/n/10.95 [7] A. Cromer, "Sta-ble so-lu-tions us-ing the
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 610--611
+\OT1/minntx/m/n/10.95 Eu-ler ap-prox-i-ma-tion," \OT1/ntxtlf/m/it/10.95 Am. J. Phys.\OT1/minntx/m/n/10.95 , vol.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+[]$\OT1/ntxtt/m/n/10.95 https : / / liceocuneo . it / oddenino / wp -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+\OT1/ntxtt/m/n/10.95 content / uploads / sites / 2 / Alan -[] Cromer -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+\OT1/ntxtt/m/n/10.95 Stable -[] solutions -[] using -[] the -[] Euler -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+\OT1/ntxtt/m/n/10.95 Approximation -[] American -[] Journal -[] of -[]
+ []
+
+[12]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 621.
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 453.
+(Font)              scaled to size 9.0pt on input line 621.
  (Euler cromer/euleronestar.py
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 1.
- [19] [20]) (RK2/2rkonestar.py [21] [22] [23]) (Leapfrog/leapfrogonestar.py [24] [25]) (binaryeuler.py [26] [27] [28]) (binaryleapfrog.py [29] [30] [31] [32]) [33] (main.aux)
+ [13
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]) (RK2/2rkonestar.py [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]) (Leapfrog/leapfrogonestar.py [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]) (binaryeuler.py [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]) (binaryleapfrog.py [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]) [26] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -896,17 +985,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7F68F81AD730BFA9440113D248606F27;4483.
  ) 
 Here is how much of TeX's memory you used:
- 18345 strings out of 474486
- 281126 string characters out of 5743754
- 2322542 words of memory out of 5000000
- 39556 multiletter control sequences out of 15000+600000
- 603359 words of font info for 125 fonts, out of 8000000 for 9000
+ 18320 strings out of 474486
+ 280784 string characters out of 5743754
+ 2330542 words of memory out of 5000000
+ 39555 multiletter control sequences out of 15000+600000
+ 604484 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,8n,117p,1260b,2333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,8n,117p,1260b,2331s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/lianf/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (33 pages, 1252266 bytes).
+Output written on main.pdf (26 pages, 1297183 bytes).
 PDF statistics:
- 1242 PDF objects out of 1440 (max. 8388607)
- 784 named destinations out of 1000 (max. 500000)
+ 1196 PDF objects out of 1200 (max. 8388607)
+ 758 named destinations out of 1000 (max. 500000)
  304 words of extra memory for PDF output out of 10000 (max. 10000000)
 

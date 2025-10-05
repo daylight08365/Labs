@@ -1,19 +1,16 @@
-# %% [markdown]
+# [markdown]
 # ## The 2nd Order Runge-Kutta Method of Non-Binary Orbital System
 
-# %%
 # import the packages
 import numpy as np
 import matplotlib.pyplot as plt
 
-# %%
 # the constants
 
 G = 4*(np.pi**2) # gravitational constant units: AU^3/yr^2
 M = 1 # solar mass ... makes equations easier
 R = 1 # AU for circular orbits
 
-# %%
 # initialising variables / initial conditions
 
 # initial position = x0 and y0 (in AU)
@@ -25,16 +22,15 @@ y0 = 0
 
 # initial velocity
 v_x = 0
-v_y = 4
+v_y = 4 # value to change
 
-# %%
 # Using Kepler's Third Law, the equation of a period of a circular orbit is
 
 T = np.sqrt(((4*(np.pi**2))/G*M)*R**3)
 
 # the time step - small iteration for the loop to show the approximate motion at that time for that x amount of time
 
-dt = 0.0015
+dt = 0.0015 # value to change
 step = int(T/dt)    # how many years iteration
 
 # to store the trajectories, use arrays
@@ -52,7 +48,6 @@ vy = v_y
 energies = []
 times = []
 
-# %%
 # for using the 2nd Runge Kutta method
 
 # the derivatives
@@ -68,20 +63,22 @@ for i in range(step):
     r = np.sqrt(x**2 + y**2) # distance from the Sun circular orbit and modulus
 
     # midpoint calculations
-    x_mid, y_mid = x + (0.5*dt*k1_x), y + (0.5*dt*k1_y)
-    vx_mid, vy_mid = vx + (0.5*dt*k1_vx), vy + (0.5*dt*k1_vy)
+    x_mid = x + (0.5*dt*k1_x)
+    y_mid = y + (0.5*dt*k1_y)
+    vx_mid = vx + (0.5*dt*k1_vx)
+    vy_mid = vy + (0.5*dt*k1_vy)
 
     # slope at midpoint (RK2)
     k2_x, k2_y, k2_vx, k2_vy = derivatives(x_mid, y_mid, vx_mid, vy_mid) # obtaining the slopes of the midpoints
 
     # updating the solution
-    x += (dt*k2_x)
-    y += (dt*k2_y)
-    vx += (dt*k2_vx)
-    vy += (dt*k2_vy)
+    x = x + (dt*k2_x)
+    y = y + (dt*k2_y)
+    vx = vx + (dt*k2_vx)
+    vy = vy + (dt*k2_vy)
 
     # snapshot interval
-    snap = 2
+    snap = 20   # value to change
     if i % snap == 0:
         xvalues.append(x)
         yvalues.append(y)
@@ -96,15 +93,13 @@ for i in range(step):
     energies.append(E)
     times.append(i*dt)
 
-
-# %%
 plt.figure(figsize=(5.5,14))
 
 # plotting the graph
 plt.subplot(3,1,1)
 plt.plot(xvalues, yvalues, 'x', markersize = 5, label = "Celestial Object")
 plt.plot(0, 0, "o", markersize = 12, label = "Sun")   # the Sun marker
-plt.title('Non-Binary Orbit with 2RK Method')
+plt.title('Non-Binary Elliptical Orbital System (RK2 Method)')
 plt.xlabel("x (au)")
 plt.ylabel("y (au)")
 plt.legend(loc='upper right')
@@ -113,8 +108,8 @@ plt.grid()
 # energy time graph
 plt.subplot(3,1,2)
 plt.plot(times, energies, color='red')
-plt.ylim(min(energies)-5, max(energies)+5)
-plt.title('Orbit Energy vs. Time with RK2')
+plt.ylim(min(energies)-0.1, max(energies)+0.1)
+plt.title('Non-Binary Elliptical Orbit Energy vs. Time (RK2 Method)')
 plt.xlabel("Time (yr)")
 plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
 plt.grid()
@@ -122,7 +117,7 @@ plt.grid()
 # energy time plot zoomed in
 plt.subplot(3,1,3)
 plt.plot(times, energies, color='red')
-plt.title('Circular Orbit Energy vs. Time with RK2 Zoomed In')
+plt.title('Non-Binary Elliptical Orbit Energy vs. Time (RK2 Method) Zoomed In')
 plt.xlabel("Time (yr)")
 plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
 plt.grid()

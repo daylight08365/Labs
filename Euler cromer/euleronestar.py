@@ -1,18 +1,15 @@
-[markdown]
+# [markdown]
 # ## The Euler-Cromer Method of Non-Binary Orbital System
 
- 
 # import the packages
 import numpy as np
 import matplotlib.pyplot as plt
 
- 
 # the constants
 
 G = 4*(np.pi**2) # gravitational constant units: AU^3/yr^2
 M = 1 # solar mass ... makes equations easier
 R = 1 # AU for circular orbits
-
 
 # initialising variables / initial conditions
 
@@ -26,16 +23,15 @@ y0 = 0
 
 # initial velocity
 v_x = 0
-v_y = 4
+v_y = 4 # value to be changed
 
- 
 # Using Kepler's Third Law, the equation of a period of a circular orbit is
 
 T = np.sqrt(((4*(np.pi**2))/G*M)*R**3)
 
 # the time step - small iteration for the loop to show the approximate motion at that time for that x amount of time
 
-dt = 0.0015
+dt = 0.0015 # value to be changed
 step = int(T/dt)    # how many years iteration
 
 # to store the trajectories, use arrays
@@ -53,7 +49,6 @@ vy = v_y
 energies = []
 times = []
 
- 
 # Using the Euler-Cromer loop  
 
 for i in range(step):
@@ -70,7 +65,7 @@ for i in range(step):
 
     # adds the new trajectories to the end of the list
     # snapshot interval to only add every 20th value
-    snap = 2
+    snap = 20   # value to be changed
     if i % snap == 0:
         xvalues.append(x)
         yvalues.append(y)
@@ -85,14 +80,13 @@ for i in range(step):
     energies.append(E)
     times.append(i*dt)
 
- 
 plt.figure(figsize=(5.5,14))
 
 # plotting the loop
 plt.subplot(3,1,1)
 plt.plot(xvalues, yvalues, 'x', markersize = 3, label = "Celestial Object") # orbit of the object
 plt.plot(0, 0, "o", markersize = 12, label = "Sun")   # the Sun marker
-plt.title('Non-Binary Orbit with Euler-Cromer Method')
+plt.title('Non-Binary Elliptical Orbital System (Euler-Cromer Method)')
 plt.xlabel("x (au)")
 plt.ylabel("y (au)")
 plt.legend(loc='upper right')
@@ -101,8 +95,8 @@ plt.grid()
 # energy time plot
 plt.subplot(3,1,2)
 plt.plot(times, energies, color='red')
-plt.ylim(min(energies)-5, max(energies)+5)
-plt.title('Energy vs. Time')
+plt.ylim(min(energies)-0.1, max(energies)+0.1)  # value to be changed
+plt.title('Non-Binary Elliptical Energy vs. Time (Euler-Cromer Method)')
 plt.xlabel("Time (yr)")
 plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
 plt.grid()
@@ -110,11 +104,9 @@ plt.grid()
 # energy time plot zoomed in
 plt.subplot(3,1,3)
 plt.plot(times, energies, color='red')
-plt.title('Energy vs. Time Zoomed In')
+plt.title('Non-Binary Elliptical Energy vs. Time (Euler-Cromer Method) Zoomed In')
 plt.xlabel("Time (yr)")
 plt.ylabel("Total Energy (AU$^2$/yr$^2$)")
 plt.grid()
 
 plt.tight_layout()
-
-
